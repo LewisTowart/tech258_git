@@ -21,7 +21,7 @@ stored a local repository. When working together on a remote repository develope
 what could be considered the main file. Other contributors will get the chance to review the new changes being proposed
 and can create a merge if they agreed on the changes which will change the version of the main file.
 
-![git snapshots.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20snapshots.png)
+![git_snapshots.png](Markdown_images%2Fgit_snapshots.png)
 
 ### Showcase the basic git command flow. Explain what each command does and showcase the expected output:
 
