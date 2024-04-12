@@ -26,19 +26,19 @@ and can create a merge if they agreed on the changes which will change the versi
 ### Showcase the basic git command flow. Explain what each command does and showcase the expected output:
 
 * git init - creates an empty Git repository
-![git init.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20init.png)
+![git_init.png](Markdown_images%2Fgit_init.png)
 * git status - displays the state of the working directory
-![git status.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20status.png)
+![git_status.png](Markdown_images%2Fgit_status.png)
 * git add - adds the content of the specified file to the staging state
-![git add.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20add.png)
+![git_add.png](Markdown_images%2Fgit_add.png)
 * git commit - captures a snapshot of the project's currently staged changes
-![git commit.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20commit.png)
+![git_commit.png](Markdown_images%2Fgit_commit.png)
 
 ### Showcase what `git log` and `git diff` do
 
 #### git log
 Lists the commits made in that repository in reverse chronological order
-![git_log.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit_log.png)
+![git_log.png](Markdown_images%2Fgit_log.png)
 
 #### git diff
 Helps you see, compare, and understand changes in your project
@@ -65,14 +65,14 @@ This is a useful command because...
 ### Distributed Version Control
 
 #### Centralised VC
-![centralised VC.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fcentralised%20VC.png)
+![centralised_VC.png](Markdown_images%2Fcentralised_VC.png)
 
 Source code is stored in a central server maintained by a single authority. Developers check out the code they need to 
 work on and make changes directly to that codebase. Once the changes are made, they commit the code back to the central 
 server.
 
 #### Distributed VC
-![distibuted VC.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fdistibuted%20VC.png)
+![distibuted_VC.png](Markdown_images%2Fdistibuted_VC.png)
 
 Distributed version control is similar but addresses some of the limitations of centralised version control. It allows 
 developers to create local copies of the code repository, complete with the entire history. Each developer has a full 
@@ -93,14 +93,14 @@ software, providing the distributed version control of Git.
 
 ### How do you link a local repo to a remote repo on GitHub?
 
-![connecting a local repo to a new remote repo.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fconnecting%20a%20local%20repo%20to%20a%20new%20remote%20repo.png)
+![connecting_a_local_repo_to_a_new_remote_repo.png](Markdown_images%2Fconnecting_a_local_repo_to_a_new_remote_repo.png)
 
 As can be seen by the image above I'm linking my git_learning local repo to the remote repo I created on GitHub
 
 ### How do you link a remote repo to a new local repo? 
 
 To do this you first need to create a remote repo and have the relevant link that is created alongside that.
-![git link.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20link.png)
+![git_link.png](Markdown_images%2Fgit_link.png)
 
 You then need to run the command in the bash terminal as seen below...
 ````
