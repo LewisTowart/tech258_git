@@ -91,4 +91,21 @@ software, providing the distributed version control of Git
 
 ### How do you link a local repo to a remote repo on GitHub?
 
+![connecting a local repo to a new remote repo.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fconnecting%20a%20local%20repo%20to%20a%20new%20remote%20repo.png)
+
+As can be seen by the image above I'm linking my git_learning local repo to the remote repo I created on GitHub
+
 ### How do you link a remote repo to a new local repo? 
+
+To do this you first need to create a remote repo and have the relevant link that is created alongside that.
+![git link.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20link.png)
+
+You then need to run the command in the bash terminal as seen below...
+````
+git clone <github link/url>
+````
+You now need to navigate to the new local repo (using the cd command) that has been cloned from the github repository.
+
+You are now free to continue working within that repo making changes and then commit/push items to the remote repo as
+the previous method.
+
