@@ -21,6 +21,8 @@ stored a local repository. When working together on a remote repository develope
 what could be considered the main file. Other contributors will get the chance to review the new changes being proposed
 and can create a merge if they agreed on the changes which will change the version of the main file.
 
+![git snapshots.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fgit%20snapshots.png)
+
 ### Showcase the basic git command flow. Explain what each command does and showcase the expected output:
 
 * git init - creates an empty Git repository
@@ -79,7 +81,7 @@ copy of the repository on their local machine, including the change history.
 ### What is GitHub
 
 GitHub is a platform that allows developers to create, store, manage and share their code. It uses Git 
-software, providing the distributed version control of Git
+software, providing the distributed version control of Git.
 
 ### What are some examples of other options/competitors?
 
