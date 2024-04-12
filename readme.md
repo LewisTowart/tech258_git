@@ -106,6 +106,8 @@ git clone <github link/url>
 ````
 You now need to navigate to the new local repo (using the cd command) that has been cloned from the github repository.
 
+It's then possible to create a new folder for example and use the command git init to create a new local repo
+
 You are now free to continue working within that repo making changes and then commit/push items to the remote repo as
-the previous method.
+with the previous method.
 
