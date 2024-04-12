@@ -59,3 +59,36 @@ This is a useful command because...
 * It allows you to hide files that could be accidentally added to the repo
 * It can let you hide anything that is private
 * Reduce clutter
+
+### Distributed Version Control
+
+#### Centralised VC
+![centralised VC.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fcentralised%20VC.png)
+
+Source code is stored in a central server maintained by a single authority. Developers check out the code they need to 
+work on and make changes directly to that codebase. Once the changes are made, they commit the code back to the central 
+server.
+
+#### Distributed VC
+![distibuted VC.png](..%2F..%2F..%2F..%2F..%2FPictures%2Fdistibuted%20VC.png)
+
+Distributed version control is similar but addresses some of the limitations of centralised version control. It allows 
+developers to create local copies of the code repository, complete with the entire history. Each developer has a full 
+copy of the repository on their local machine, including the change history.
+
+### What is GitHub
+
+GitHub is a platform that allows developers to create, store, manage and share their code. It uses Git 
+software, providing the distributed version control of Git
+
+### What are some examples of other options/competitors?
+
+* GitLab
+* Bitbucket
+* OneDev
+* Gogs
+* Codeberg
+
+### How do you link a local repo to a remote repo on GitHub?
+
+### How do you link a remote repo to a new local repo? 
