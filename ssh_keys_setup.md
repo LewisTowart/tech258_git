@@ -20,6 +20,6 @@ Now we need to add out newly created public key to our settings page on the repo
 For us to access our repo and continue to add/commit changes we now need the SSH key. To use the key we need to add it to the keyring of sort in the repo location.
 ![keyring_add.png](Markdown_Images%2Fkeyring_add.png)
 
-It's important to also activate github as a known host for our key
+It's important to test that the key has been set up correctly
 ![github.png](Markdown_Images%2Fgithub.png)
 
